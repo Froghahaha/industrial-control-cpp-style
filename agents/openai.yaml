@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrial Control C++ Style"
+  short_description: "C++17 industrial-control coding style and real-time rules"
+  default_prompt: "Use $industrial-control-cpp-style to implement or review C++17 industrial-control code with clear ownership, state, timing, error, and module boundaries."
