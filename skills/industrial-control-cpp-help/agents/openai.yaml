@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrial Control C++ Help"
+  short_description: "Show the industrial-control skill entry points"
+  default_prompt: "Use $industrial-control-cpp-help to show the industrial-control C++ skill modes and references."

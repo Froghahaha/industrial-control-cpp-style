@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrial Control C++ Audit"
+  short_description: "Audit an industrial-control C++ repository by risk"
+  default_prompt: "Use $industrial-control-cpp-audit to audit this C++ industrial-control repository and report ranked risks without modifying files."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrial Control C++ Review"
+  short_description: "Review C++ control diffs for flow, faults, and realtime risks"
+  default_prompt: "Use $industrial-control-cpp-review to review this C++ industrial-control diff without modifying files."

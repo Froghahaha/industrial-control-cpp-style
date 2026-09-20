@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industrial Control C++ Debt"
+  short_description: "List contract and fault debt markers"
+  default_prompt: "Use $industrial-control-cpp-debt to collect industrial contract and fault debt markers from this repository."
